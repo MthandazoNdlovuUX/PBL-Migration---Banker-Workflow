@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "24F0F071-F6AC-4403-9F3D-9110A855F378",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 249,
+    "x": 311,
+    "y": 12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E38125E2-6578-41B9-A4B9-3F5CC2E1FBA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "9CC43FCC-E431-42AC-8DCA-1F354B8DE02F"
+    },
+    {
+      "class": "text",
+      "id": "B12A13FB-699F-4805-9FC2-DB140CB00946"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B288F87-DEAC-4B7D-8E2D-DE47C1870EAF"
+    },
+    {
+      "class": "text",
+      "id": "8A518F21-E83E-44A5-899A-06C6A1A75896"
+    },
+    {
+      "class": "shapePath",
+      "id": "BAB17F5B-EB36-4B69-AA5C-669D9D0098FE"
+    }
+  ],
+  "name": "CookieBtns",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

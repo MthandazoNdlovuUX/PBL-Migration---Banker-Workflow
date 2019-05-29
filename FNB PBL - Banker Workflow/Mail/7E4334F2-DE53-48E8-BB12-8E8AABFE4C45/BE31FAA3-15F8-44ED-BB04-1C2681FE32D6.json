@@ -1,0 +1,135 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE31FAA3-15F8-44ED-BB04-1C2681FE32D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A5A6296-A247-4BD8-94FD-C82EC932B932",
+    "height": 102,
+    "width": 746,
+    "x": 540,
+    "y": 74
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chat header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "93DEA3FD-0E29-40FB-BC5A-3932FC7F11B7/785A4BF9-321B-4139-AF6E-0510FF4EC080_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "93DEA3FD-0E29-40FB-BC5A-3932FC7F11B7/FF5D6255-C6BD-4FB0-9951-8B0084461F4E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "93DEA3FD-0E29-40FB-BC5A-3932FC7F11B7/8840BB62-6CB0-47F5-A1FE-A8A45B464DD6/5551235E-7274-4BA0-8E4F-9A9D4375280E_stringValue",
+      "value": "At your service :)"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "93DEA3FD-0E29-40FB-BC5A-3932FC7F11B7/028B3ECF-72A3-428D-8A5A-30823545D887_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE2B506F-F319-4869-8DDC-5B297D5EA7E9/142FD2E3-155E-4DC8-A4E0-2CE104659976/C54B3CD8-3693-4986-80A2-292FBD109FA4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/be7b64ac32ed0b25022c5e1369979061ee90244d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE2B506F-F319-4869-8DDC-5B297D5EA7E9/14F91B69-A45F-4219-8ACB-C23147330744/6DF96DC0-DD64-445F-9569-7A1CAF69C162_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/be7b64ac32ed0b25022c5e1369979061ee90244d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE2B506F-F319-4869-8DDC-5B297D5EA7E9/8840BB62-6CB0-47F5-A1FE-A8A45B464DD6/9579E898-1898-4C3F-B6E2-5CC385914A9E_stringValue",
+      "value": "At your service :)"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE2B506F-F319-4869-8DDC-5B297D5EA7E9/EFC02970-D295-4AD1-95A8-E17DB6CE00CE_stringValue",
+      "value": "My Service Suite"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B42F01F-7F18-4664-B237-EBCA249AE205",
+      "overrideName": "732D2ACF-750D-492D-A046-98F46B9FD468_stringValue",
+      "value": "Okazaki Suzuko"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FAC43B4-886B-4FD0-B8BE-8853EE7F281A",
+      "overrideName": "9248E1E2-4D8A-481B-ACA8-BE11A4599925/9579E898-1898-4C3F-B6E2-5CC385914A9E_stringValue",
+      "value": "Final Grant amendment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DFE30E2-C5D6-4C52-ACB3-F4F8F9C99C16",
+      "overrideName": "6DCD9250-CD24-4674-8DAC-F36C7882C253_stringValue",
+      "value": "Okazaki Suzuko"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEF2BB70-13A3-4BFD-B770-4C63F192C3CC",
+      "overrideName": "20B51DCE-CCC9-4F80-8D50-E6E312E654FE_stringValue",
+      "value": "Final Grant amendment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0D37CD1-202E-450F-80B4-1217DAF9CDCF",
+      "overrideName": "416BB557-010B-4E6B-942B-D2F9E72B746F_stringValue",
+      "value": "to: John Doe <Doe.Johnathan@fnb.co.za> Susan Dube <Dube.Susan@fnb.co.za>"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F84BEBC-DA41-425E-A9B0-27273386AB38",
+      "overrideName": "5F1B5AAA-61FA-4A3C-A1D1-829B328C355D_stringValue",
+      "value": "12/03/2019"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4E182AE-8FE8-4E17-B5E5-428011282D78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "291C64FA-B768-4F2B-88AF-174F5399145F",
+  "verticalSpacing": 0
+}

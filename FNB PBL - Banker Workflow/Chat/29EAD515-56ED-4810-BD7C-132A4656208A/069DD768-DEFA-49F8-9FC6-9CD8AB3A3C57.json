@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "069DD768-DEFA-49F8-9FC6-9CD8AB3A3C57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0E1B916-821B-4D36-9952-70DC9687FFEC",
+    "height": 100,
+    "width": 565,
+    "x": 515,
+    "y": 464
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "lists/tracker/date/completed",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5327D48-D17C-48B9-B339-60EA2852F28B",
+      "overrideName": "2A07BE5B-88A2-43DF-9DDC-F9517DCE7FB4_stringValue",
+      "value": "Mon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44620474-36D1-4BDC-BA0F-2E0D6C046F89",
+      "overrideName": "AC35E19C-40B9-4933-A96E-00B4ACFB409C_stringValue",
+      "value": "1 Jan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F3B9FD3-B943-46F1-95C4-CD41DA939E40",
+      "overrideName": "1F62A795-4F5E-4F1F-BA31-A75A9D39DE2D_stringValue",
+      "value": "Valuation"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DFF1CD3-F8C0-44DA-AE5E-D1F336550048",
+      "overrideName": "77DE1821-2354-474D-A50F-51FB394FD34D_stringValue",
+      "value": "The deal is currently in this department"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16ECCF89-9044-4D2D-9E5D-F7300CC96231",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "630411E7-AC80-40CE-8FA4-9A4B7C1428E8",
+  "verticalSpacing": 0
+}

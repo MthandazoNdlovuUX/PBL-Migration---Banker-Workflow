@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF9E56D0-E24C-450F-87DD-D9C782D57CEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 289,
+    "x": 990,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/magicmountainsearch",
+  "nameIsFixed": false,
+  "originalObjectID": "A22712D7-8F92-4926-9480-9D8A4D43638F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F13E54B-D32E-43AE-9969-A65B03938CE7_stringValue",
+      "value": "."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E72D248C-36AB-4D6A-ACAB-337984F27548_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B47B8E29-F7B9-4A9C-A09B-E81E1505111F_stringValue",
+      "value": "!@#$%^&*?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "383AA19B-96A1-4A89-A038-504C10F62ADB",
+  "verticalSpacing": 0
+}

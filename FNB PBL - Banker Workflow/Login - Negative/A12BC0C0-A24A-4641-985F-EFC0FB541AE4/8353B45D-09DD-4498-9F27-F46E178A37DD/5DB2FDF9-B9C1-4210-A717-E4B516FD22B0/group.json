@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DB2FDF9-B9C1-4210-A717-E4B516FD22B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 67,
+    "x": 204,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3914C281-3547-443A-9921-A0F43CA0A37A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F969BB17-4AE8-42EC-87D4-CE00243B65ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A2DF248-8A64-4611-AEEF-5EC1B75F0487"
+    },
+    {
+      "class": "shapePath",
+      "id": "64002AEE-2F0A-4B40-984C-E7A1F67AFE0F"
+    }
+  ],
+  "name": "BigLogo(67x67)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

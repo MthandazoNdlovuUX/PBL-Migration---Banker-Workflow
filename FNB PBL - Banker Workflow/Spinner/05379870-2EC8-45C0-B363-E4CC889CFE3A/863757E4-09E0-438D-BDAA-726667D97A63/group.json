@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "863757E4-09E0-438D-BDAA-726667D97A63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E71B9CC-17C6-41C9-89D7-EF8DD3FDD381",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63D4A997-FD93-4C1A-BDB8-153E7828F49C",
+    "height": 70,
+    "width": 1441,
+    "x": 0,
+    "y": 241
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "28CDF425-5CFB-4423-B659-0CC029147F4A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AE94B176-C52E-480E-BF4A-8E9428625248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F0D3E36-0ABD-4B51-A17E-34C75802D72D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AD8689F-4C93-42DC-86F6-527D94E3EB2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "458A56F2-485A-4BDE-BED6-48A82FDDD1A5"
+    }
+  ],
+  "name": "•/build/elements/footer/buttons",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2EC1F8F-5521-42AA-9388-2015506E477F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

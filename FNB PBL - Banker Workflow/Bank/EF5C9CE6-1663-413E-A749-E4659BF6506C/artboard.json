@@ -1,0 +1,281 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5B70CB52-3E35-4FD1-BF4B-DF7D3D73EA8A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF5C9CE6-1663-413E-A749-E4659BF6506C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C941D57F-FB74-4E87-90C4-FBEDF41454A6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1302BE0-DB81-4733-9D6A-B1A37A06E83A",
+    "height": 1109,
+    "width": 1440,
+    "x": 4557,
+    "y": -1386
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "5E8821C8-44C8-41ED-AFD6-5DD8BFC33A82",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "23033DF0-9C9E-4F10-86AC-B9F233B77FAC"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1F7AD268-8F9F-4384-B1B7-50DC1E8A2BB2",
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "86C2BE96-BD69-4EE6-AB5D-CE165F8F226E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FF3C595-7136-4939-BEE6-D1B41B200A25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9962671F-918A-4C14-A272-9FEFB6D5E8FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62D1CF54-9FC8-4A4D-8665-AC0F35390D4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45765518-6A43-4D45-99F9-740C6DDCDC01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCCD77C4-F22B-489D-A1BD-4EA03C21155E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BF0DABC-BE88-4605-8E9E-9A5FD7AB4842"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C875DE3C-421F-4C2B-A4A3-113FB61A3ACA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3C2820A-FE99-447F-8F84-078E80BF3AE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38C487FB-6FC4-4166-8C86-7C7BD8C01214"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0CFAF08-8233-4464-9376-A3EBF12ACE9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74E1569A-D1DD-4A8D-ADB3-A361F12D58CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A34C781C-9367-414B-8A63-ADCFAB4AB0D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D14B6834-F432-480A-949F-2C8559432AB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "648F812F-B5FF-4B15-A5C7-66FE6FC5C966"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFCD17C8-C06E-426C-9E8F-C5E5C8ACA20E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1995BDA3-D656-4C02-8A4F-6FA3E48A3284"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F15A8990-17E2-445C-B06E-9B1B0D92B08A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89816DFD-EBB3-4779-A9F6-18819986EE40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7B9FFCB-81F6-41D7-83E4-A894A675987A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCB38522-A070-438E-ACC3-617222B326F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E633FA38-EDCE-4201-B143-070D6BC9C4CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A049817-A173-485D-B49B-94A22B4E0BB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61C542A3-EA47-400F-B370-FBEA1C79E146"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBC65A5F-FD8A-47EE-BCB8-EBE0B37E6AA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B744F162-C1CB-4089-90A0-DAD47425814D"
+    },
+    {
+      "class": "group",
+      "id": "CCB91442-ED46-4606-AF17-FBA30C732F95"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "274FF831-5D1E-42B0-8B36-BE6EE46AE5E5",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Banker/ITC Check-Bad",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "74894EEF-E296-4563-9080-DAC7555E05B9",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "02012069-1440-4831-AB02-58DF26449A41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "440FD50A-62DC-49BE-BF7A-DCC3FD1240F6",
+    "height": 75,
+    "width": 359,
+    "x": 180,
+    "y": 238
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/magicmountainsearch",
+  "nameIsFixed": false,
+  "originalObjectID": "A22712D7-8F92-4926-9480-9D8A4D43638F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BFA7A5E3-784A-4476-8EE1-FF70FF2806F2_stringValue",
+      "value": "Search mail"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8893431B-8B98-437D-AAD1-B9B581DDEE23_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "77E80CA3-2FF3-4AF3-A10E-451202DEF5D2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "595C03CF-71F2-470B-B50B-D283DDA96799_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "168BF200-8904-4EFF-96DC-449A89350010",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE2C85D1-8F13-4B8D-B5B0-B267BBB91199",
+  "verticalSpacing": 0
+}

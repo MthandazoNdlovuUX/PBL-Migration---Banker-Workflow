@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01D5246B-C327-4F02-A2F9-FD10B6978C4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 181,
+    "x": 630,
+    "y": 285
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Loading Spinner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9BB2CF48-013C-4496-A741-6168A1B57C60_stringValue",
+      "value": "Please hold on "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B59A641C-35D8-4EBA-98F1-BF2DAFA67071",
+      "overrideName": "E93FA5E0-8494-4DD2-93A8-175EE9CCB592_stringValue",
+      "value": "Waiting..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7379D1BB-CF45-4EA3-BF33-57D2873D7DD0",
+  "verticalSpacing": 0
+}

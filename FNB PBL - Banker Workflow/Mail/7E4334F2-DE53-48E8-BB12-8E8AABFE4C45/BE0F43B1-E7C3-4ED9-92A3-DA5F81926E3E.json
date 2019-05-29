@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE0F43B1-E7C3-4ED9-92A3-DA5F81926E3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AEDFD36-9B11-494A-A78F-8C361D26FEE6",
+    "height": 102,
+    "width": 360,
+    "x": 180,
+    "y": 314
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "lists/icon/single/3L",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A507EF39-596F-438F-B12F-2BCC4FA30205",
+      "overrideName": "A36D5FA9-87D1-44DC-8FA9-BD2548674A06_stringValue",
+      "value": "Okazaki Suzuko"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8331600-D5AF-445F-B9F3-E08491083911",
+      "overrideName": "43F0DC9C-C813-4602-85EE-10EA75A5AC83_stringValue",
+      "value": "12/03/2019"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9216F99-386F-4CC7-BAEA-0C8402E58255",
+      "overrideName": "1E1863EA-59B2-4B93-90B0-8FA18978CBDE_stringValue",
+      "value": "Final Grant amendment"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B7C42AC-EFBC-4A77-A67F-CAF358A07C50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74386FDF-C5F4-4F55-83D8-05CAAAC19843",
+  "verticalSpacing": 0
+}

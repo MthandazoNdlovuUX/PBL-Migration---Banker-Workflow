@@ -1,0 +1,217 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A12BC0C0-A24A-4641-985F-EFC0FB541AE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 750,
+    "width": 1440,
+    "x": 3224,
+    "y": -376
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9C80D554-14CF-4B16-B0F9-C3417637DF3B"
+    },
+    {
+      "class": "rectangle",
+      "id": "88388026-88BF-46D4-A1B4-8097F98349A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAF1D5CD-C873-4D1E-AE05-F6EB44BF4841"
+    },
+    {
+      "class": "text",
+      "id": "77B8C7D2-FEC0-402C-812B-17CEBECDD5FE"
+    },
+    {
+      "class": "text",
+      "id": "86C29BFA-A5E2-4B0B-A083-1916CEC6BEC6"
+    },
+    {
+      "class": "group",
+      "id": "8353B45D-09DD-4498-9F27-F46E178A37DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20CE951F-AEE4-4744-AD66-E3EDEBC50A3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0C469A4-01DE-4B7E-AD77-1CB328FA2B78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50C24B1D-F0A6-48CB-8276-9EC81AEB95F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7FBD798-D59C-48F5-AE44-675D6A938761"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DB9A343-5709-4A6B-A432-E9DCD0D4B422"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDDD7DF2-5287-4586-84A2-0E32A9533DF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A26DCACA-1A0D-482B-86A6-C88B946201C8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Login/Spaces",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

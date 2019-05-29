@@ -1,0 +1,197 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F67E90A7-F579-4638-8717-7AC194EEB56B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 1105,
+    "x": 180,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D361D8DC-2D6F-49E0-A7A8-81F59BA4D7B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "328C8D35-0975-484C-B57E-6DC0C3939D04"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA347784-4F33-42BB-B8C7-5E600AC40CA0"
+    },
+    {
+      "class": "rectangle",
+      "id": "3F89CB6F-87BC-4EAD-8AD0-BC404D09A8E3"
+    },
+    {
+      "class": "rectangle",
+      "id": "64368973-57B1-4002-9DD8-6BA1E28A9909"
+    },
+    {
+      "class": "rectangle",
+      "id": "6247ADE1-1777-41A2-A587-2CD6A98B92E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC581332-542A-412F-A62D-557EB5ADF7A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "48FBD700-8114-4D5A-B78A-8FF99FBB1662"
+    },
+    {
+      "class": "rectangle",
+      "id": "513D5AA9-6EE9-4A0E-B2BF-96F261E81751"
+    },
+    {
+      "class": "rectangle",
+      "id": "899B5984-60C3-4AFE-A50E-30502811FF97"
+    },
+    {
+      "class": "rectangle",
+      "id": "9675D892-78FE-4561-A65F-9DB66F2D61F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "EFF1237F-BA29-4EB6-84AF-CC4EE397013D"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D81C264-3EA2-4EE1-B503-101E20975950"
+    },
+    {
+      "class": "rectangle",
+      "id": "1BFD49AA-92BF-40E3-A04E-2424B0CA15A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "6EB293CC-5101-42A6-A2CA-5EE079B488D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "4BA150C2-CFAC-4006-AE79-67896EB1AED8"
+    },
+    {
+      "class": "rectangle",
+      "id": "D1B68D51-D814-4397-9E25-F229B02C3134"
+    },
+    {
+      "class": "rectangle",
+      "id": "B21D557B-4398-4F54-A7CF-0B0118AF031D"
+    },
+    {
+      "class": "rectangle",
+      "id": "213FFC36-F845-43B2-8CF4-CFC163254E44"
+    },
+    {
+      "class": "rectangle",
+      "id": "6408071B-3708-4F5C-A6D8-F41D92368618"
+    },
+    {
+      "class": "rectangle",
+      "id": "355C6B25-2721-480B-8685-8575609CF165"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA719C98-51D3-404E-98EB-4EDDF14D5770"
+    },
+    {
+      "class": "rectangle",
+      "id": "D85E33F5-D2CE-4EF6-8640-71F558138566"
+    },
+    {
+      "class": "rectangle",
+      "id": "FA7A9120-32B3-47FB-998E-DC300003BECC"
+    },
+    {
+      "class": "rectangle",
+      "id": "332A0A15-8170-45C8-99AA-7631032BC0B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "575EE79F-A93A-4DBE-9EEA-F6CA323237CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "A9D1486F-EA29-4644-81CD-ACD399689EDC"
+    },
+    {
+      "class": "rectangle",
+      "id": "C13D9312-CBC3-4DEC-AD70-F3E84458A259"
+    },
+    {
+      "class": "rectangle",
+      "id": "EA4E89C5-F7B3-489A-A370-F6BEE8A3A503"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2150A78-72E7-4C9C-BACE-733C5576DD5A"
+    },
+    {
+      "class": "rectangle",
+      "id": "78A3F6E1-A70C-4442-B86C-5CADF7D2F8A6"
+    },
+    {
+      "class": "rectangle",
+      "id": "92CC5004-280A-467F-BDF8-D14869FFDC43"
+    },
+    {
+      "class": "rectangle",
+      "id": "486E7DC7-D9F0-460C-970C-E75A6EAE93C0"
+    },
+    {
+      "class": "rectangle",
+      "id": "3F74D98F-19B9-4888-A759-C2689ADC5E1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "15E22ECB-8381-4DB4-B413-FB5CCD545E4B"
+    },
+    {
+      "class": "rectangle",
+      "id": "CFA9396B-62AC-440B-A6E8-D3A3EC5BBDA0"
+    },
+    {
+      "class": "rectangle",
+      "id": "9549232B-27BD-4A47-AE16-15B49E00050E"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

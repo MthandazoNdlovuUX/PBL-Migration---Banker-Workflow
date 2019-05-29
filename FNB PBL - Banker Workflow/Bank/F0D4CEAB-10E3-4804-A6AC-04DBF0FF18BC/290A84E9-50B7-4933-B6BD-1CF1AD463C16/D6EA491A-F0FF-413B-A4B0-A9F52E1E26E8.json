@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6EA491A-F0FF-413B-A4B0-A9F52E1E26E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB70E47E-A1BA-403D-8E34-0EB2C23F6929",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7445F432-E751-4113-8B72-65C1D6A5C75A",
+    "height": 21,
+    "width": 20,
+    "x": 315,
+    "y": 18
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "•/forms/swapOuts/location",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "631B8AC9-3468-44CC-B205-0428BF1CC11B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8003362-9A68-4D56-9F5C-6E7DD3EE3CB5",
+  "verticalSpacing": 0
+}

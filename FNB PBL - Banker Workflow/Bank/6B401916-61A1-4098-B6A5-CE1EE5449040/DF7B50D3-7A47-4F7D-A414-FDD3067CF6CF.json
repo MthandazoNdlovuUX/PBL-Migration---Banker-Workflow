@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF7B50D3-7A47-4F7D-A414-FDD3067CF6CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "051B3C14-430B-44C9-B0E3-214BD48281FB",
+    "height": 75,
+    "width": 289,
+    "x": 990,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/magicmountainsearch",
+  "nameIsFixed": false,
+  "originalObjectID": "A22712D7-8F92-4926-9480-9D8A4D43638F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F13E54B-D32E-43AE-9969-A65B03938CE7_stringValue",
+      "value": "Search Deals"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E72D248C-36AB-4D6A-ACAB-337984F27548_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACC25DBF-ACB0-4E43-B8DD-2BFEF5A89B7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "383AA19B-96A1-4A89-A038-504C10F62ADB",
+  "verticalSpacing": 0
+}

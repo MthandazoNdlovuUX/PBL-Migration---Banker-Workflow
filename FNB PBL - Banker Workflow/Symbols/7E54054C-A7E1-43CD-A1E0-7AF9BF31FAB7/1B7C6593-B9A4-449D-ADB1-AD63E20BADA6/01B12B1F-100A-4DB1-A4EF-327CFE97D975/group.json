@@ -1,0 +1,119 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01B12B1F-100A-4DB1-A4EF-327CFE97D975",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 23,
+    "x": 79.11926605504595,
+    "y": 127
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "562A8AF7-6ADB-4CCD-AD08-0C105801CE62"
+    },
+    {
+      "class": "shapePath",
+      "id": "5429D35E-A49F-4AD9-A68B-C8CD1AE81B20"
+    },
+    {
+      "class": "shapePath",
+      "id": "449E220B-9B98-4BC5-A2B7-15173765E4A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "105CCA78-255E-43FC-9279-5BC4B354BD0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "641199BB-D3B3-4D4C-8F81-38C37F2426F1"
+    },
+    {
+      "class": "shapePath",
+      "id": "65007B8C-216E-46A3-86E7-FA57663AA4D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "8810CC39-F232-4F38-8D96-583E025DF176"
+    },
+    {
+      "class": "shapePath",
+      "id": "47AD6694-5FF7-4D9C-8770-6E566C1242A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD2F45C2-6AD0-4A37-987B-C901C8091F12"
+    },
+    {
+      "class": "shapePath",
+      "id": "1645CACF-F4F8-4DD6-8480-FBEA11F3C8E9"
+    },
+    {
+      "class": "shapePath",
+      "id": "22AC178B-B01F-4C89-9255-DFE79D8422FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2C38FF8-B4BA-4250-9254-B43EC31D4E20"
+    }
+  ],
+  "name": "loading",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

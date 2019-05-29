@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6870EAB4-914F-492A-A459-D5623DC8D486",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2B81350-E5A8-4E32-AB62-FF894DF4EB6F",
+    "height": 50,
+    "width": 155,
+    "x": 745,
+    "y": 2514
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BankingTables/content/text Copy 30",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150_symbolID",
+      "value": "5A1BA868-C352-403D-BC6A-F7F6DCE03615"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/F4F33AFE-471E-4EB1-8890-1175353B0D12_stringValue",
+      "value": "Account Type"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/3CB36E98-5141-4FC7-87AF-25C2770B1CE4_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/200EE4DF-DC9F-4769-BAF2-AD8CC0582C45_symbolID",
+      "value": "13A29A8D-E54B-47EF-9479-360EB4F55F8C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/1E1935A1-194E-472B-BAAB-954F36734AB5_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/29FCCDBE-5049-4BB3-A4AE-12D2253E6502_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/74715DD1-DD41-48B7-B9F0-27C29887A756_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/3DBB3F70-4C24-46A5-BA56-A5D60F4B55B0_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/23611CEB-8EE6-48FF-895A-ABC4BC75F3BE_stringValue",
+      "value": "My ref"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/F0504238-2A98-4F61-8666-BD72F3321B9D_symbolID",
+      "value": "13A29A8D-E54B-47EF-9479-360EB4F55F8C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0BC657C0-AEB7-4D49-8C78-376228A44150/4FA9588B-6DC0-4ED4-B07F-F3F886D40EA6_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADD52A52-287C-4781-9637-D3DF848DF7C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "543B43A3-53CD-4619-8D57-04DFEE152E70",
+  "verticalSpacing": 0
+}

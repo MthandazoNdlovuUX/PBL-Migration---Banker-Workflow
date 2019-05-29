@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6A40A4C-68A6-4631-BD7C-666BA1A19DAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B1C448A-9574-4415-8C39-37F0429B87D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8B64DBB-2B79-4393-860C-86FCDA37D89F",
+    "height": 25,
+    "width": 135,
+    "x": 27,
+    "y": 57
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/coza/header/group",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68472576-48CB-418D-8EA7-83AB58B04DCA",
+      "overrideName": "D09CE990-B251-4015-BFF1-5E0A20288C3C_stringValue",
+      "value": "Requested Facility Size"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7D2DC6D-99AA-47A7-B490-8C4F3AEA80D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "84CE854D-E482-49CB-BEDB-16EDD715814A",
+  "verticalSpacing": 0
+}

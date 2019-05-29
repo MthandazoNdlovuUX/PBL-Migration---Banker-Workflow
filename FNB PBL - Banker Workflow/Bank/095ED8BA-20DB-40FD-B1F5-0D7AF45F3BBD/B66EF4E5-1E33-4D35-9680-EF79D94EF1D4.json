@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B66EF4E5-1E33-4D35-9680-EF79D94EF1D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 93,
+    "width": 515,
+    "x": 655,
+    "y": 401
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "question/check/1L/radio Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BA8926AA-F1B8-4A14-B23B-53FD43D74B75_stringValue",
+      "value": "Have you been rehabilited?"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F182198-A702-4EBC-BCFB-6F8DB36CE156_symbolID",
+      "value": "C423F79F-E220-43B6-8273-7D6FB0A03A3A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFA044EA-127B-4263-A32D-A9E4A963299B",
+      "overrideName": "D7226FA0-F993-4452-BCE5-BA350F2ED146_symbolID",
+      "value": "9AA29239-D69E-4C01-9424-5A56554E1CBC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE2C86C2-996F-49DF-8B4D-235113806F7D",
+      "overrideName": "146633C0-BA40-4AA1-B5A7-8D238F857BC7_symbolID",
+      "value": "5BDFC695-B724-4487-9B24-490E740C7701"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF9BFC67-E0A5-462F-B62F-4796371C1759",
+      "overrideName": "430BCE5C-735C-4F6F-AB73-17D826B0B602_stringValue",
+      "value": "Last 5 years"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "164671BD-391B-486B-8580-5C7D4264445E",
+      "overrideName": "8C407888-BE37-49F3-B1CE-8207ECEA1173_stringValue",
+      "value": "Last 24 months"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF9D425F-07FF-4B5A-A9E4-81B75810689D",
+      "overrideName": "D7B57786-E6F3-4B16-B179-764C9575D12F_stringValue",
+      "value": "Last 12 months"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B990E317-BB4D-4AD9-9CC0-48160B7C9E54",
+  "verticalSpacing": 0
+}

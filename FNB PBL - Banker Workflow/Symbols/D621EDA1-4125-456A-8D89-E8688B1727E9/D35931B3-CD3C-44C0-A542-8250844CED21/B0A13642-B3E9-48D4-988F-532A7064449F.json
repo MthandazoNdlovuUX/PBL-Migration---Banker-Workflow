@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0A13642-B3E9-48D4-988F-532A7064449F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 335,
+    "x": 0,
+    "y": 461
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chat/read chat copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DF0A477-F6FE-44AA-9A81-24740DF5C3ED",
+      "overrideName": "C6D9DEDF-16E2-4168-B917-17936FD94D4F_stringValue",
+      "value": "Thers something else il need you to do for me."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DE41A81-F944-4F6B-BC9C-11CCCC88BA58",
+      "overrideName": "4FEEBE45-89E6-49B1-851A-C90F6D2E0A06_stringValue",
+      "value": "Jafaris Long"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92D47C17-E871-4458-933C-81678555AF50",
+      "overrideName": "B417D221-8D46-4018-8F40-54A0315D22FB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/09ad332ae7fefc24014b915fa70632d374eb2112.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B667C4B5-A33D-4467-BC67-490D530982A9",
+      "overrideName": "73637206-F91D-4F46-BA06-86C47C874552_symbolID",
+      "value": "0D496A33-9564-41FD-B0A1-8567B33B6F23"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05928AE2-F4E9-4E77-9832-54F0FE6975AC",
+  "verticalSpacing": 0
+}

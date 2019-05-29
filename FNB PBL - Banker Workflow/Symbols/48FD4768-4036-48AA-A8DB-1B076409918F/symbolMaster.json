@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B691D6E8-9ECB-4E30-BD32-B6EA1DB0445E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4833,
+  "clippingMaskMode": 0,
+  "do_objectID": "48FD4768-4036-48AA-A8DB-1B076409918F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FEBC312-4472-43E1-BA92-9C9B5B97550D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5084F944-EE9D-49D6-B15B-793BDCF5290B",
+    "height": 16,
+    "width": 122,
+    "x": 16845,
+    "y": 56
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B8667142-04D3-477F-8CDD-C07860249B7D"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A1B78E94-B29B-4C9A-A119-170F9EFC598C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6C5B2D82-A8AF-4C02-9018-870F675C8446"
+    },
+    {
+      "class": "text",
+      "id": "EBE40C69-E39B-4473-A21B-300310481830"
+    },
+    {
+      "class": "text",
+      "id": "07BA8481-05C7-4658-9788-3BF6F0F46041"
+    },
+    {
+      "class": "group",
+      "id": "87EE937B-D383-4E09-AA3B-76F720265E65"
+    },
+    {
+      "class": "text",
+      "id": "82F70D70-DD8D-4F41-AE05-0D889917A8EF"
+    }
+  ],
+  "name": "elements/pill-badge/negativeSml",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EBE40C69-E39B-4473-A21B-300310481830_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "82F70D70-DD8D-4F41-AE05-0D889917A8EF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "07BA8481-05C7-4658-9788-3BF6F0F46041_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC5B5192-4847-40D1-A1AB-1756A8A42AD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C45FE029-773D-4A88-B27E-8843D82CF7D0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDF71195-C41C-484E-9164-6073A7F29076",
+    "guides": [
+    ]
+  }
+}

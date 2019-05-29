@@ -1,0 +1,309 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D627CDDB-1BAE-4AD4-A524-EB09ABABE22C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 835,
+    "width": 1440,
+    "x": 1485,
+    "y": -4221
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C20409EC-1979-4948-B9A4-5F444284D9F9"
+    },
+    {
+      "class": "group",
+      "id": "ACF39667-D946-44AC-8DAC-48A6E9CE49F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D156D5D4-8E56-4EDE-9C94-CEDE67822A9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C02A2BC-FEBF-45CF-955F-447FE19002EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89D1FD4C-BDEC-4FB6-A868-909E7FB3A347"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F249A3E-816A-4A79-BA7A-FEF0C3BD7E2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E5B4847-9961-42F0-95F1-68242CE42660"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54712D44-5E93-4630-A2A0-80C2B0D5BDCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "855DD80A-3263-405C-820E-C010E898E8A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "718AA81C-76D4-4B56-BC9D-9229BDB8DD86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "637ACDF2-BC97-4624-B558-058E640A36F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9115156B-7785-4853-8EFE-1DE6BCD1666B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51C739A2-AA1F-49C3-98EC-8235B5E9AE46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22FBC641-A67F-4499-8E10-F47C1BC22CCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC887760-D17D-43CE-8EA2-3D6F95786F03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A20CA875-F223-43DE-91F2-9EAD68DFF4FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BDB94AA-45AA-49BD-A114-822C1AC32BD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AA28E09-62E8-4E6B-8343-FA007EF3E833"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "153A4234-9FBB-4E4B-B67A-D03DAB2EA3DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAA456DC-F516-4F83-A9AB-4B5EB4DCE974"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08B5C8CE-68E6-4C78-B2A0-D157BC848E42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F733E735-348A-47C2-A6FB-82D207B1494B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1548EA47-C33D-4CA5-B246-FB7E80B38E1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44B679FE-3C54-4587-A296-FFB8FEB0841A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C628D8A7-24A2-42EB-9C56-95DEFCACAAE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07E1FADF-A176-442B-B789-C396EB003821"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D42332FE-E507-4D50-BA21-A1E8EE4DFEDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46E2661D-895D-438F-8118-6AE27B9D286F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE8D81D9-F1C1-4D7E-A5DC-C1CC8241E030"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB20CC05-687D-43F7-8CAE-61532A0B0BFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AF9B5F8-DEC8-487D-B1FB-8873B92CA77A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D38C979-20F6-452C-9CB6-417509344245"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F212633B-093B-4A16-9442-19D63D929566"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC94F23E-4228-4F47-BCF1-B76FBB35AE21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52E718E4-5D30-4810-8C95-246812C93504"
+    },
+    {
+      "class": "group",
+      "id": "B204DA19-6C3B-43E8-B4FB-07E7F00E5522"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Banker/Landing Page - Search Deals - Min 3 Characters ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

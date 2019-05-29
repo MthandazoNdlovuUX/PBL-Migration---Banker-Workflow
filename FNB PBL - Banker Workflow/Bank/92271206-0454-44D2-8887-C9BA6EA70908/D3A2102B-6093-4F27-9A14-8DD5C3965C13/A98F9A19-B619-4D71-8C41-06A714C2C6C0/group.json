@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A98F9A19-B619-4D71-8C41-06A714C2C6C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E9AE6AB-4297-43FC-84D3-ACF59E596753",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7EB7BA8-0D3B-47A4-8DFE-AB83180F6AC6",
+    "height": 36,
+    "width": 162,
+    "x": 27,
+    "y": 57
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "00F01F96-6CE6-46D8-B2B6-7C014E4B2AB9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D4078C5F-5E1D-467D-9ECA-0632E3FFE90A"
+    }
+  ],
+  "name": "Tables/banking/content/text Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72B1A4A2-2F98-4442-AF12-D17CC1A55C34",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

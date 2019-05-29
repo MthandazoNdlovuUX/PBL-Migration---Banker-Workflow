@@ -1,0 +1,174 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB932CDF-91DA-40E3-B9C7-603200B15D0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 750,
+    "width": 65,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5BD95502-86D4-497D-9431-7FD8977700B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B13CB472-C2FA-4C78-BADB-34BABF035D25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E9F00C2-1359-4E85-9F0F-198F39D5C7B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB0A89CA-B109-4FE6-8CF4-3880FDCC4A33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "355DCE7F-3765-40F6-B3CB-9CB9BD1B5A5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D9A0A74-1297-49F2-A087-45C199A7AFFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D51A7AC-44AF-438D-ADE1-98FCF55E96D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75DF3358-B877-4665-9C8E-EE4F89759A49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17AC497A-2067-4FB5-BBD0-E29E675821A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C258A9C-B277-4373-A674-113A894CF2AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B2DD95E-31EA-41EE-9246-3BE1F62CE536"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E1583F0-CB25-48B3-8DEF-214EB6158ADE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71340ECA-A470-41F2-9224-7CC8F2651847"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5A1D676-F2BD-435C-BD50-7B9EE8143F94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8961806-8ADB-425F-8A5C-5AA4CA90A1DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC7C81CC-F73D-4243-BCE3-14BB18BC5840"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F92206B9-5C84-41CA-B6BB-06306D3FC88D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "583EC67F-D578-4C24-8622-E0D6833397DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F8C6F36-5F7B-4997-BFC7-D8F4B64A5F02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EB8322A-231D-4B34-9EE4-36059C5B2787"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01CC1E6D-4295-46DA-844A-0FB6F654BAA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67903E4E-CDA0-400B-88D7-6926FF016C0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E633EC9-7E28-43A6-856B-2BD2B519FAB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9600511-9FAA-43AE-865E-B2C3C598AC26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CECD67D-B666-461F-8E3D-89917F7A4265"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4335227B-B36B-4F02-B7F5-1283ECF962E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "033F6D42-3AD4-4C29-B0F2-6C7A3BECCFB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9B1C820-8B87-4AAD-8260-96F5ED7BB31A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26D7CF1F-1F4B-46B7-8970-7330BF23485F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CB7978E-2FF6-4218-AEEF-F9D5DC3E278D"
+    }
+  ],
+  "name": ".build/GridBlock/ContainerSize/n",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4979053442028986
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

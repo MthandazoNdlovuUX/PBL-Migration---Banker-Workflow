@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F68BC40-EED3-4A97-A50C-55A0DCAF4883",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF370B33-5C22-45FD-9393-87AD184AF495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4F4DF59-3FC4-4EFB-971E-8D0CDFD8F721",
+    "height": 60,
+    "width": 335,
+    "x": 0,
+    "y": 521
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chat/read chat copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D37A3569-C090-479A-9654-5BB1ABB5F012",
+      "overrideName": "C6D9DEDF-16E2-4168-B917-17936FD94D4F_stringValue",
+      "value": "Thers something else il need you to do for me."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50D90270-E297-40B8-8A37-F612EE17B1F4",
+      "overrideName": "4FEEBE45-89E6-49B1-851A-C90F6D2E0A06_stringValue",
+      "value": "Slawomir Pelikan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "441353D2-5E0A-4194-B20C-0F4A82C9C3E5",
+      "overrideName": "B417D221-8D46-4018-8F40-54A0315D22FB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cdf78d68c7d0ae1406d0b37439bc481ff3155c9e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "181A632A-D74C-4975-8E72-C1AC94D94A5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05928AE2-F4E9-4E77-9832-54F0FE6975AC",
+  "verticalSpacing": 0
+}

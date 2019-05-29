@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CABBBA28-CD08-4E37-AB00-82F25AED94EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 143,
+    "x": 1118,
+    "y": 384
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4962A7D9-DA7E-4880-9D35-0B0B889166E4"
+    },
+    {
+      "class": "text",
+      "id": "25AAE45E-6FB8-444C-88AF-A54EA71E2ED5"
+    },
+    {
+      "class": "text",
+      "id": "5C6FD959-BB56-4624-8394-13E27003D418"
+    },
+    {
+      "class": "group",
+      "id": "4B0619F7-1C34-438E-954C-3D85CBF8C2BA"
+    }
+  ],
+  "name": "elements/pill-badge/negativeXLng",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

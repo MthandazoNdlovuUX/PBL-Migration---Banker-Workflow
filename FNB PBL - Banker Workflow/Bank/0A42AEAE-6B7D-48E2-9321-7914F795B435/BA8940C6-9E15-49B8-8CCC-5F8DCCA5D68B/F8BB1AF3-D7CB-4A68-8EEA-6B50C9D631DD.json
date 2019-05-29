@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8BB1AF3-D7CB-4A68-8EEA-6B50C9D631DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF71F03A-31CF-42B5-A827-E69DDD931299",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "751D3344-F5F7-4F1C-9F6E-BAA3CD3E1AD8",
+    "height": 25,
+    "width": 166,
+    "x": 206,
+    "y": 57
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/coza/header/group Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B96A705-6DDE-45B7-B337-26D28C6F1EB5",
+      "overrideName": "88219364-8405-4E9E-A5CD-004AFC2BE270_stringValue",
+      "value": "Market Value"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "585B83AC-46D0-4881-A062-3E6F8885D9EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5244449A-4D2A-401C-A4EA-04116F80D783",
+  "verticalSpacing": 0
+}

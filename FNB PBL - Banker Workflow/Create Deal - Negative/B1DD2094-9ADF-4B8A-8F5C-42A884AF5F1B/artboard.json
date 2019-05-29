@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BB64BF16-D786-4283-8DC3-83002DE9F7F7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1DD2094-9ADF-4B8A-8F5C-42A884AF5F1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B4A16BA-9B67-49C8-A666-E78253DB4742",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5E4E73C-A12A-4580-BA4A-F6525A8BB1F1",
+    "height": 750,
+    "width": 1440,
+    "x": -720,
+    "y": 1452
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A2867CDA-82E9-496E-A1F9-6D461A7E5030",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F99CB321-93C6-49BA-A8B8-C62AEA790A83"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E667D2F-6BA4-4228-B1D2-54356BFC6C23",
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440,
+      463,
+      731,
+      1002,
+      1273,
+      193
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D1CF4DE1-518D-4372-9411-B37137EBF094"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73A7424F-2DA9-4FD0-B004-E7E8EFF641FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7C0B3A8-E1E9-4BB6-8673-74A082192D5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9ECED61-AEF3-4AC4-980B-B87335C50996"
+    },
+    {
+      "class": "group",
+      "id": "419E80EC-EEBE-44CA-988C-1D02357C4DBD"
+    }
+  ],
+  "name": "Create Deal/SA - Validity Length - Numeric Characters",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D45FCFC-2A68-4D41-A4C6-B364F9F9CDFD",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

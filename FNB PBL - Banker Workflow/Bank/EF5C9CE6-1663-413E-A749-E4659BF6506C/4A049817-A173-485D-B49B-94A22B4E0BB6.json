@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A049817-A173-485D-B49B-94A22B4E0BB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B94D8A2B-36CF-4D4A-8211-51788A5067C3",
+    "height": 25,
+    "width": 488,
+    "x": 205,
+    "y": 733
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/para_bullet/blk copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78596ACF-F098-4B87-9A96-302067B73655",
+      "overrideName": "2A2A8C5A-EF5D-4021-AA98-5EE17870C4F9_stringValue",
+      "value": "The Applicant has a Debt Counselling Indicator"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CF4F8F4-C5D1-4780-BBE0-823FC90A4A0A",
+      "overrideName": "7493DAFA-84DE-4043-BC35-199F120B0E4E/17CC9448-8D9C-4CBB-8793-D3A439C67706_stringValue",
+      "value": "4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D6CCDD3-5AE9-49C0-9092-6579B21C4B5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5260FF04-4DF6-47C7-B75B-9BAE190FB7B0",
+  "verticalSpacing": 0
+}

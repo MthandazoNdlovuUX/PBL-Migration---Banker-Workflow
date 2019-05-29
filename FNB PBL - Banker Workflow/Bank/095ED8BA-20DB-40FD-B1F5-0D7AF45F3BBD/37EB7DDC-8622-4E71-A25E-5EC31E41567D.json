@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "37EB7DDC-8622-4E71-A25E-5EC31E41567D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5FDDE40-4B85-4E51-9DA1-93540892B5D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BD23610-6310-43C9-9CF8-09A0A0D7753A",
+    "height": 51,
+    "width": 204,
+    "x": 966,
+    "y": 526
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Btt 1 orange",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4DB099C2-3318-4D7E-97B9-06EBD1E6B665_stringValue",
+      "value": "Request Consent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F60E1BB-5C0F-4948-A81D-C2D6ED5E8711",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB52A306-2F7D-4FAF-83D2-1D0A327CFDAA",
+  "verticalSpacing": 0
+}

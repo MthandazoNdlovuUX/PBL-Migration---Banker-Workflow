@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA051B52-4BEB-4E8D-9367-0ADFB4213976",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64CC0B0D-5614-4093-8ACC-87B41D339B5C",
+    "height": 236,
+    "width": 498,
+    "x": 12,
+    "y": 19
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D0952F00-9ABF-443F-971F-FEC60EB716B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F66CF8B-690D-46AE-B918-EF0A9E11BCA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B440C728-D021-4C97-B007-2A8FB7B8522D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7E852BF-8CE3-4038-A3F6-021DDC6AD25E"
+    },
+    {
+      "class": "text",
+      "id": "47590D8D-F174-4C82-A32A-D244E981E07A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E9A0FFD-FA61-4883-9D70-0B378CC91EF5"
+    },
+    {
+      "class": "text",
+      "id": "8838BD0F-5E3F-4C19-AA32-4DFE577E3479"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9922F869-EB1B-4637-8747-2A6F2EBC9DF1"
+    },
+    {
+      "class": "text",
+      "id": "901CC800-7517-4256-B33F-5291FA2512D5"
+    },
+    {
+      "class": "text",
+      "id": "76D0C34E-D42D-4969-AF6D-FF76D20D6F6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A638F537-A3AE-4453-9EF8-6F5C7FA9FA45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93B49515-C24E-4154-AC60-D0D7A977966D"
+    },
+    {
+      "class": "text",
+      "id": "95518C27-460F-4FA0-BFDE-20543270AA2A"
+    }
+  ],
+  "name": "List items",
+  "nameIsFixed": true,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32529BAD-E1B4-43DB-A3A8-280448ED53B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

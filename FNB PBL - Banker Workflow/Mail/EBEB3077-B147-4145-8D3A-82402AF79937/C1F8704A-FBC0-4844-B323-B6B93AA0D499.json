@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1F8704A-FBC0-4844-B323-B6B93AA0D499",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 360,
+    "x": 180,
+    "y": 88
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Buttons/switcher/leftActive",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8F4233C5-F04C-4228-B4E4-5141929E8B23_stringValue",
+      "value": "Secure chat"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09F03970-61A6-4C3F-8C58-8FB1D2F9E59F",
+      "overrideName": "3401ACD2-1D60-43CC-9CE4-F468C33CECCC_stringValue",
+      "value": "Sent"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E355865E-F053-4AEC-9DA7-686FC01DA91E",
+      "overrideName": "C72F191F-AFA6-44B9-AF07-CFA81AA6A20E_stringValue",
+      "value": "Inbox"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A83ECE25-0400-494F-8EE6-A894CD0A7481",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FB0053E-1D8F-4D91-8B70-88D9D2DCB8BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27F4CAE4-9E0E-4D41-BB46-F8767F236D87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A438537-8EA9-4089-8325-0BE60D700B38",
+    "height": 50,
+    "width": 200,
+    "x": 880,
+    "y": 870
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/coza/Text/header/1line_L Copy 107",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "81B8CC4D-0FBB-4ADE-9F7A-EAD6881B4EFF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "54AB4298-571C-4BB6-A450-8A97D155D3C2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EB7314A5-798E-4ADE-947E-1790F12EE71A_stringValue",
+      "value": "ZAR"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BE61983-DFA5-4EC5-9674-857DFF4B6F2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "391A7D18-40A4-4C55-A3C4-3ADA5FB78647",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D10A3DF-48C6-47E6-A58F-ACF8E6880AA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 515,
+    "x": 655,
+    "y": 374
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "question/check/1L Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0876618-EA32-41CD-B531-B63ED08AB1DE_symbolID",
+      "value": "C423F79F-E220-43B6-8273-7D6FB0A03A3A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22BC1FE7-F2DB-4ECC-856F-43D74F7F88CA_symbolID",
+      "value": "C423F79F-E220-43B6-8273-7D6FB0A03A3A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6C0D253D-5D55-49C8-ABC6-70C8080067A9_stringValue",
+      "value": "Is your spouse currently undergoing Debt Counselling? (for Community of Property Only)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5EA90164-C32E-4A69-8255-ECB0F063CF50",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "08BE9EB2-EE5D-45B2-8E11-9AC5D02D04B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E309313F-7113-4D04-990A-F9F5A6CA8DF4",
+    "height": 100,
+    "width": 565,
+    "x": 515,
+    "y": 665
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "forms/list/tracker/date/completed copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B3A5036-4839-4CEC-BD50-D401B68A8D06_stringValue",
+      "value": "Sadly, the delivery failed. Please reschedule."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71D46E3D-FA5D-4E36-A905-A981E102AD8F_symbolID",
+      "value": "DAE2C566-9D07-4E70-B469-8D61C58D1471"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B5CB22BE-3AD0-4959-98E3-0046AD170A64_symbolID",
+      "value": "DAE2C566-9D07-4E70-B469-8D61C58D1471"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBE73E0B-7B1D-48B9-8A1A-D08C2A2AFCE4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CCA1C9AF-DC33-47D8-8C84-144282CA2354_stringValue",
+      "value": "Sorry!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF7F465C-D31E-4C0B-827F-5ADE05347273",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8E4780F-9FE9-4F38-899E-F98EA2E621CA",
+  "verticalSpacing": 0
+}

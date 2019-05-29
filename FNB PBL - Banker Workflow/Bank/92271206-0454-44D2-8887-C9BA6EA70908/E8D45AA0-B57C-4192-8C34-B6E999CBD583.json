@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8D45AA0-B57C-4192-8C34-B6E999CBD583",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5363D73B-83FA-4401-B05B-8BB216B32328",
+    "height": 75,
+    "width": 565,
+    "x": 726,
+    "y": 586
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/input/normal",
+  "nameIsFixed": false,
+  "originalObjectID": "CD6691BC-CF3C-4A34-9526-79F648CB7F23",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6D8FFA09-C914-4CCA-9866-45A60A65DC40_stringValue",
+      "value": "Select a Property Type"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "746D0946-4813-4E1B-8522-15C733CC4B63_stringValue",
+      "value": "ERF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21711D2E-AE84-4CD9-AD96-0A82C922018D_stringValue",
+      "value": "  "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6CBB5DC6-8715-471E-8C54-D0E6420009FA_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "134D61A7-99EE-4982-9D2B-5AC96FFB71AF",
+      "overrideName": "45DFA418-9699-44A9-9C6C-5FF8497C5DE4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D105BA46-9085-4F3E-90DB-007346A332C3",
+      "overrideName": "2A747A0C-CD07-4994-8CDE-62DC1606E4B3_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "246F6463-1ED7-4029-9726-3010E50BB687",
+      "overrideName": "54A4C11C-EA1C-4127-A8F2-0401C8D0C566_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50BF4624-EB32-41A8-B569-56DC088E8B6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79D5DB18-194A-4037-80C5-F6E597D584FF",
+  "verticalSpacing": 0
+}

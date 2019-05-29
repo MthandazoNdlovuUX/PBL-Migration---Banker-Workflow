@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F549D93-F976-43E6-BF6C-8CE4CCA8D168",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E12CD97-ECD0-4704-ABC0-4B69326790F3",
+    "height": 100,
+    "width": 565,
+    "x": 515,
+    "y": 565
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/list/tracker/date/completed",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB62270F-6704-4577-A749-D8245B670713_stringValue",
+      "value": "Your card is on its way"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FB5CC0D0-EBF1-43E5-BAC0-43C6352F8F8B_stringValue",
+      "value": "A.I.P"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71D46E3D-FA5D-4E36-A905-A981E102AD8F_symbolID",
+      "value": "DAE2C566-9D07-4E70-B469-8D61C58D1471"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98E52953-70DD-4D06-9A69-29B75EC38850",
+      "overrideName": "AF74ED74-4B5C-4E8B-81C8-AAD1A7816BB6_stringValue",
+      "value": "3 Jan"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56196320-D6E6-46F6-B600-7C92B0325AF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E9F9F2F-C318-43E0-8C20-DE1D7D1271A6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAEF73E6-B538-44EB-8634-6E6159D2A314",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44F5025C-5E98-420A-B1E2-C6FB86473C31",
+    "height": 74,
+    "width": 618,
+    "x": 446,
+    "y": 151
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/H2/blk_r",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEE0D662-A568-4755-A4DA-EA0D4AF05BAD",
+      "overrideName": "9606AF69-1772-4CA7-AC76-03D12120D0EF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03DADAAD-BD5D-4C62-8038-93EF2609B886",
+      "overrideName": "554ACC32-CDCB-4C23-9057-F9C2DD99F407_stringValue",
+      "value": "We're in Business!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A661232-0D55-4C89-9E22-2D73F62BCFE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C28BEAF6-3B5F-4880-905C-284F0925250D",
+  "verticalSpacing": 0
+}

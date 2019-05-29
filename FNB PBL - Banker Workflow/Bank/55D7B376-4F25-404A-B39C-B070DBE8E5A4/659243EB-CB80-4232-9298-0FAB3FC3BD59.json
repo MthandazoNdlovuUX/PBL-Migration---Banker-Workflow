@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "659243EB-CB80-4232-9298-0FAB3FC3BD59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BA17D0E-EE5C-45B3-B4D3-AADFAE797B08",
+    "height": 50,
+    "width": 154,
+    "x": 206,
+    "y": 883
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/coza/Text/header/1line_L Copy 16",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7154F6B-D141-4D3F-92AE-543B66F0B851_stringValue",
+      "value": "Pin Jung-Eum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8DE3276-D665-49F1-9E9D-234C1A95E4C7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA71D016-D670-457A-A787-5A8847024CFD_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5064643B-74FD-41AC-81C0-BBE3B6C71AA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "182E5312-4064-49CC-B1EE-6C317899295F",
+  "verticalSpacing": 0
+}

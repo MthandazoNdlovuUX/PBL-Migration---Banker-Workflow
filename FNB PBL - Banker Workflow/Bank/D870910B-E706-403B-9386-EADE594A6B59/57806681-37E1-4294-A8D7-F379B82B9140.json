@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "57806681-37E1-4294-A8D7-F379B82B9140",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A54121E5-A5D6-4E35-B5FB-5509358383A6",
+    "height": 50,
+    "width": 155,
+    "x": 205,
+    "y": 1320
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/banking/content/text Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "696F9A9E-63D8-49E7-AEAD-1032C5C01577",
+      "overrideName": "7B8FE4C5-C5BE-49EB-8E43-6FF1AE74362A/BF9DC974-0C7D-44F2-BB77-2A9EB2C86219_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9ECB162B-4929-437F-94DA-944309B19431",
+      "overrideName": "7B8FE4C5-C5BE-49EB-8E43-6FF1AE74362A/AD1A5E0D-2D04-47CB-B15F-350C8C729DC7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB47B259-8EF1-4E8C-925C-7A68D0777E25",
+      "overrideName": "7B8FE4C5-C5BE-49EB-8E43-6FF1AE74362A/4321AECC-2A5F-48C1-87E3-8DF92DCC8AC6_stringValue",
+      "value": "Bonus"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "861E208C-C3D0-4077-B475-D013572D5F15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C970ABEC-963C-4117-A5CF-03E94A54B441",
+  "verticalSpacing": 0
+}

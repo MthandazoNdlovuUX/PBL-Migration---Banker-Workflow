@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EA3E4B5-F58F-49E0-B0C3-B49418BA6535",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "879DEBE1-D289-4D16-88ED-AF931979DE34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BDAB443-51BD-4F67-8CB1-C60A62FEDD8D",
+    "height": 50,
+    "width": 155,
+    "x": 205,
+    "y": 665
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/coza/Text/header/1line_L Copy 16",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7154F6B-D141-4D3F-92AE-543B66F0B851_stringValue",
+      "value": "Nembo Lukeni"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8DE3276-D665-49F1-9E9D-234C1A95E4C7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA71D016-D670-457A-A787-5A8847024CFD_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F27C637B-2631-4923-9D57-95174452D504",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "182E5312-4064-49CC-B1EE-6C317899295F",
+  "verticalSpacing": 0
+}

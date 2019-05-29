@@ -1,0 +1,194 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8730,
+  "clippingMaskMode": 0,
+  "do_objectID": "506E6B77-B71C-45BF-81FD-9BB2EB0172F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 385,
+    "x": 6298,
+    "y": 1062
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -180,
+    "guides": [
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      733,
+      193,
+      1272,
+      462,
+      1003
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EC012AFD-94F7-48BD-8AAF-CA574954D77F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BDF0FAE-25F7-47BE-A764-658EC05F6108"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFBD782E-2FA5-4D52-BF7D-5F26A0A9E8F7"
+    },
+    {
+      "class": "group",
+      "id": "A1B58ADE-08EA-44BE-8891-40616B765C7B"
+    },
+    {
+      "class": "group",
+      "id": "DA6B8DD9-17B6-4380-A656-91535F7DCE40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56F5D59D-84A9-49C3-AF7E-4EF361824D6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAE84646-A2B9-4DA5-9CEF-6C871D5E8A47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D9D9C54-B793-4955-A55C-D089F418CA9D"
+    },
+    {
+      "class": "text",
+      "id": "9AA1F90D-3FA5-4938-B637-017C657BD85B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70E3B24F-1C12-4110-95CB-B52387CCFB7C"
+    }
+  ],
+  "name": "forms/stepLocator/odd_c",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2D9D9C54-B793-4955-A55C-D089F418CA9D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "56F5D59D-84A9-49C3-AF7E-4EF361824D6E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "70E3B24F-1C12-4110-95CB-B52387CCFB7C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8BDF0FAE-25F7-47BE-A764-658EC05F6108_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9AA1F90D-3FA5-4938-B637-017C657BD85B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EC012AFD-94F7-48BD-8AAF-CA574954D77F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EFBD782E-2FA5-4D52-BF7D-5F26A0A9E8F7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FAE84646-A2B9-4DA5-9CEF-6C871D5E8A47_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA746F17-21D4-4FF5-BE45-A5C631CE846E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -25,
+    "guides": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

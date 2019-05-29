@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "59D094D8-7205-4517-8B24-F8953E51E865",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA5D1DA6-0EEA-4178-80DC-A148772CD2C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B103216E-D475-4898-93C7-F9CED5C767A2",
+    "height": 174,
+    "width": 295,
+    "x": 270,
+    "y": 150
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/H2/blk_r",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B6E61936-F9FA-419E-B739-D54ABD28C05E_stringValue",
+      "value": "Debt Counselling Declaration"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C88E569-D35C-4460-B578-A4B8CD45EEAD_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DD9F407-B632-4DA8-8120-9B51609B825D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A85C8D23-1E46-4297-85AE-578E99BFDBFD",
+  "verticalSpacing": 0
+}

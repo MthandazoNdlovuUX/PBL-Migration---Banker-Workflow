@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5957336E-C827-4A9F-8C30-586EEA5AC999",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D9F9155-7EEA-4FB3-B3E5-6C172082207E",
+    "height": 67,
+    "width": 452,
+    "x": 205,
+    "y": 142
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "alerts/note",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A19E1E7-8DCD-4E89-9728-A969590F6C72",
+      "overrideName": "CEFF13AC-005A-4285-B020-DA55548DB816_stringValue",
+      "value": "NOTE! You have not confirmed your identity on your FNB app."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE0325CB-85E1-487D-AD60-CB6C9AC514B7",
+      "overrideName": "60C06F72-F1D0-4AB3-99BD-92637EC229CD_stringValue",
+      "value": "Please login to Pyramid again."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "599806ED-AC55-43CE-B42D-89502979F36F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C13B742-1520-43C8-B8A8-2043526880B1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0A84D95B-1503-46C6-938C-7AF26B23BD01",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74F4704B-87BD-4FDC-8D3E-98B40C611FB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D01BA98F-3D52-45EF-9C72-5631A1043FEB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE02FCD3-445B-490A-8C98-4D1ABDFEA88E",
+    "height": 750,
+    "width": 1440,
+    "x": -720,
+    "y": -376
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C0B0580E-AB56-4C0D-ADA1-D9E12D63F01F",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9DFC61F0-3AD5-4EAD-8D9B-CB55C7809381"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "69A69837-27B4-4864-99ED-9005D0417034",
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440,
+      463,
+      731,
+      1002,
+      1273,
+      193
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F2B122BF-9C4A-47E4-B6E1-71B09AEC51DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB60BF24-20A6-4302-8E91-CBBBD5D269EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F19CD00A-3520-48C6-9BF1-C5EC92D9F284"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B8930AA-E8D5-4344-BF27-2C617B6E3CD0"
+    },
+    {
+      "class": "group",
+      "id": "A99A301C-08B3-474B-A05D-8087BC9663CA"
+    }
+  ],
+  "name": "Create Deal/SA",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E8AAE08C-AE1B-4F1E-A713-A56CCF6F5767",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

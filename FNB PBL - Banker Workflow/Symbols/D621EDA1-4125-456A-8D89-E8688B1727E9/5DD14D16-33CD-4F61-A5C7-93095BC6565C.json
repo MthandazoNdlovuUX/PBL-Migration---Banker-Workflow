@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DD14D16-33CD-4F61-A5C7-93095BC6565C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 411,
+    "x": 105,
+    "y": 3895
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/h4/turq_l copy 9",
+  "nameIsFixed": false,
+  "originalObjectID": "D2FA8949-9993-49A2-A724-049C0C469206",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "73428BB5-BE83-411B-A4AB-397C65609A57_stringValue",
+      "value": "All linked accounts with no funds"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "03392F83-977F-4763-9B47-7F6EC6EF836A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65EC6474-1003-43FF-A63B-0718A74167F6_stringValue",
+      "value": "Chat Modal"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F039BA7E-1763-40E2-975C-DC7A7DDF52A3",
+  "verticalSpacing": 0
+}

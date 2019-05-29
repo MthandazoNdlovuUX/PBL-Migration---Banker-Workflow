@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "309288F7-A334-41E3-BF5F-39266B0DC96A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A663E1A1-3900-4902-9E5F-407206220984",
+    "height": 75,
+    "width": 565,
+    "x": 631,
+    "y": 250
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/input/normal2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "823B03C3-1D32-45A8-8A96-7742DFBA0CE4",
+      "overrideName": "D779E73D-9D02-49FA-BB4D-3DE830DEC069_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCBA022E-8F70-41A4-81F0-819749EF4D3D",
+      "overrideName": "4AEC8C28-F706-49F1-9C46-93286F1F383E_stringValue",
+      "value": "Applicant's Passport Number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8315799-F86C-4860-8FBE-22DE5DF93FF1",
+      "overrideName": "20EBE81B-4D54-4C01-883B-9988AAAF4309_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E90F774D-95F9-4907-99D4-A6C54B90F6B9",
+      "overrideName": "CA29FAF9-B285-47AA-9F30-60231DBAA8DD_stringValue",
+      "value": "BN454"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38A31E82-A6DD-4F0C-B073-E0FEB3D68115",
+      "overrideName": "D05FBBE2-223A-4446-B643-3AA7D118A0E7_stringValue",
+      "value": " Please enter a valid Passport Number. (Must be between 6 to 15 characters long) "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B18C598B-62C5-43FB-B9C7-078E8948AC86",
+      "overrideName": "84E6DD44-C8CD-409C-803C-A54E569540F3_stringValue",
+      "value": "."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6298427-B6FF-4ED9-BFE7-7C0EA4730830",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96B10385-0D14-4885-84CA-82557D909D8A",
+  "verticalSpacing": 0
+}

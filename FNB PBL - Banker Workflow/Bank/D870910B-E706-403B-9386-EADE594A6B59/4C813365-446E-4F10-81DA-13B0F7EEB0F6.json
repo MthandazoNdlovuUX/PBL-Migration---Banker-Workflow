@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C813365-446E-4F10-81DA-13B0F7EEB0F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1BC0904-F1AA-4691-84F2-51245CB3FAC8",
+    "height": 50,
+    "width": 1055,
+    "x": 204,
+    "y": 1370
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BankingTables/row/grey line Copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FAB85D5-3B40-44D6-B940-F7B638EC6EC3",
+      "overrideName": "C0255B28-86F1-4E2C-9BFD-035E65F939E3_symbolID",
+      "value": "48550ED3-53FE-448F-8DDE-9EF76E81A92B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE1C2A45-0296-4A2F-B9D0-E863B1651EB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A53399BA-F5E8-460C-A6A9-F54B88AD14F3",
+  "verticalSpacing": 0
+}

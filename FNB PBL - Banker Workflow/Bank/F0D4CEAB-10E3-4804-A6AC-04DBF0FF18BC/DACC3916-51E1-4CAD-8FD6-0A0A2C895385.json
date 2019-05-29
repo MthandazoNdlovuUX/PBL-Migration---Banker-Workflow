@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DACC3916-51E1-4CAD-8FD6-0A0A2C895385",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "687E13BB-0B9C-4223-87D1-606CFC685F4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8C79416-C51E-4C6A-8218-54BD3410FB32",
+    "height": 22,
+    "width": 185,
+    "x": 1153,
+    "y": 184
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btt/bank/Orange/text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "211E6092-F871-472C-B69E-9E3A2D94CDC4_stringValue",
+      "value": "Create Deal"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D74469F-752E-4E74-B3FB-09989223DE3C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B0736B8-3490-4464-8F70-C1DCD3358A5F",
+  "verticalSpacing": 0
+}

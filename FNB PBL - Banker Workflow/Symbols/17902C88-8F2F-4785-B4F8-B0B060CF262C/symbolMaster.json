@@ -1,0 +1,128 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "261EE6D0-693F-47B0-AB40-1AE90ACF4565",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 843,
+  "clippingMaskMode": 0,
+  "do_objectID": "17902C88-8F2F-4785-B4F8-B0B060CF262C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "706361A8-B690-475C-A893-3D6F98BA2F8F",
+    "height": 75,
+    "width": 1105,
+    "x": 100,
+    "y": 550
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -180,
+    "do_objectID": "2DB21269-C83F-4FAB-81A4-8C95ECB8CE2B",
+    "guides": [
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      733,
+      193,
+      1272,
+      462,
+      1003
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "598D7D3D-5054-4F46-A755-F8C9BBE6575B"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7E6C581-FCF9-4585-8C6E-76368C1AC442"
+    }
+  ],
+  "name": "Tables/coza/Header/double_2tone",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA906130-08C0-465E-A20B-F98B0E9C27B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3E808BB1-6FC5-4B18-9AFF-5520EDACB07B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -25,
+    "do_objectID": "FB9BA964-7DB6-43EB-A8F3-E21AA9C3B7C0",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ]
+  }
+}

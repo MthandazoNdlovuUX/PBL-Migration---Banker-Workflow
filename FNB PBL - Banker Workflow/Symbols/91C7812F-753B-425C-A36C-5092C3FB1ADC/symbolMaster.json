@@ -1,0 +1,199 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9998849034309387,
+    "green": 1,
+    "red": 0.9999160170555115
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 14766,
+  "clippingMaskMode": 0,
+  "do_objectID": "91C7812F-753B-425C-A36C-5092C3FB1ADC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 375,
+    "x": 26631,
+    "y": 462
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      12,
+      27,
+      362,
+      347,
+      32,
+      37,
+      42,
+      47,
+      52,
+      57,
+      62,
+      67,
+      72,
+      77,
+      82,
+      87,
+      92,
+      97,
+      102,
+      107,
+      112,
+      122,
+      117,
+      127,
+      132,
+      137,
+      142,
+      147,
+      152,
+      157,
+      162,
+      167,
+      172,
+      177,
+      187,
+      192,
+      182,
+      197,
+      202,
+      207,
+      212,
+      217,
+      222,
+      227,
+      232,
+      237,
+      242,
+      247,
+      252,
+      257,
+      262,
+      267,
+      272,
+      277,
+      282,
+      287,
+      292,
+      297,
+      302,
+      307,
+      312,
+      317,
+      322,
+      327,
+      332,
+      337,
+      342
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "29DCC1B4-B4C1-4F03-82AE-64F1100E2333"
+    },
+    {
+      "class": "group",
+      "id": "AC2884AD-0E28-4E1E-A9F7-F0B4633EAE4E"
+    }
+  ],
+  "name": "messaging/voicenote.recorder",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6BD63A6B-B2FB-4D81-8F38-4F2F0DF45241_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7BDAD8E1-24E5-4C51-9F98-B2ED886DC67E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D0A78C86-8C89-4481-888E-A8C8054B89AE_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "78FC2390-A168-48B1-8C1E-790EBB33FD3B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      50,
+      70,
+      100,
+      120,
+      0,
+      10,
+      20,
+      30,
+      40,
+      60,
+      80,
+      90,
+      110,
+      130,
+      140,
+      150,
+      160,
+      5,
+      15,
+      25,
+      35,
+      45,
+      55,
+      65
+    ]
+  }
+}

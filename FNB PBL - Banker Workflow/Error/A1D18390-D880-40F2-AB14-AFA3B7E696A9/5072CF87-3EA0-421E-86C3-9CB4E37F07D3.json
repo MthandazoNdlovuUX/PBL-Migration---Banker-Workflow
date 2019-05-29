@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5072CF87-3EA0-421E-86C3-9CB4E37F07D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 890,
+    "x": 449,
+    "y": 231
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/para/blk_l",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3827A1B9-81CB-409B-ADE1-368D905139D9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5551235E-7274-4BA0-8E4F-9A9D4375280E_stringValue",
+      "value": "Your payment was successfully submitted for approval."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E03F102E-B5BA-4488-B9BF-147764094B41_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CA238BF-BED3-49B0-AB91-FB1F94E767A9_stringValue",
+      "value": "It looks like we have run into issues with our server, sorry about that. Please contact Production Support for assistance."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5144DCE0-E8FD-4E49-B1B5-E2179CCEEDE8",
+  "verticalSpacing": 0
+}

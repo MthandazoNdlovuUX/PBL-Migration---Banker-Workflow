@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64EE7C11-5788-4F12-B80B-A7DCA79D9207",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 515,
+    "x": 655,
+    "y": 274
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "question/check/2L",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7599AE72-33BE-4ADD-82E7-399E1D0ED660",
+      "overrideName": "27EA03D6-DAE1-4D44-A700-BA321A5957FD_stringValue",
+      "value": "Have you applied for a debt review or do you have an administrative order or an order for provisional or final sequestration against your sole/joint estate?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDA83BC4-3156-4915-A8DD-4CDE4E82C993",
+      "overrideName": "735D91F5-6520-4A3C-9C2E-046AF95BD241_symbolID",
+      "value": "C423F79F-E220-43B6-8273-7D6FB0A03A3A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4BCD923-BF10-4963-A75B-A1294AB502BE",
+      "overrideName": "169BB9A9-E20D-44FA-8C98-92ABEFDB2FA2_symbolID",
+      "value": "C423F79F-E220-43B6-8273-7D6FB0A03A3A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "70322297-A5BC-4D8F-8838-9431AEDF88A0",
+  "verticalSpacing": 0
+}

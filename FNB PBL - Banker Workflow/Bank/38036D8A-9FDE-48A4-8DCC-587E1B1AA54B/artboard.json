@@ -1,0 +1,197 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2F699F3A-F21F-4F04-9BFE-BAAA7EBA0180",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "38036D8A-9FDE-48A4-8DCC-587E1B1AA54B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AD3325D-E7A7-4C7D-B887-2B5466EBF01F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42CFB50D-7838-4245-B157-F09C72A21170",
+    "height": 835,
+    "width": 1440,
+    "x": 1485,
+    "y": -5287
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "ECE520FE-F368-44DE-94A8-521E82CE7363",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "217173A0-F040-40AD-93CC-6BD0858118AB"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E427DF8-694B-4035-8A13-889C633F3417",
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3535D3F2-94F1-4EAA-9E75-E16A065EBA4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5B9131B-07E4-4DE1-BABF-9E9D8A603B4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "461C15E0-F69A-4B3D-817F-6B7C09194343"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E93178B4-F904-4A4A-9780-80DA22C92E49"
+    },
+    {
+      "class": "group",
+      "id": "E78BB1C5-AE2B-4798-9C5F-A92DEF843C6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA94BD38-3F5A-424C-94C2-47F12E6BE688"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "03C33200-BD91-4396-9B01-B1203BE862F2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Banker/Global Search - No Search Results",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0C85DF77-EED5-4C95-8676-F43A5365C8F2",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

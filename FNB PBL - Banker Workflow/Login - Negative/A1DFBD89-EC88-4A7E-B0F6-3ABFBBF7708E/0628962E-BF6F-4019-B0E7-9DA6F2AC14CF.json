@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0628962E-BF6F-4019-B0E7-9DA6F2AC14CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9801BA1A-6157-4EFB-9320-6A594F19D0E7",
+    "height": 67,
+    "width": 452,
+    "x": 207,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "alerts/note",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F937EA59-F952-4943-9D71-694155F25D22",
+      "overrideName": "0D1FA035-9792-4874-96D3-F5FBD6BDAFD7_stringValue",
+      "value": "ERROR! You have entered incorrect credentials. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ADB6C1D8-5DDD-418C-850F-F25F0AC7510C",
+      "overrideName": "164EFE4B-4A4A-45EE-AA8A-F52EE19ADCD1_stringValue",
+      "value": "Please enter correct credentials. You have 3 attempts left."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A863102-6913-463A-8BD8-195DBDCC0AAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "25D84A99-48A8-44D3-AB6D-9F990B084884",
+  "verticalSpacing": 0
+}

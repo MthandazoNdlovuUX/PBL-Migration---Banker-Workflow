@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B744F162-C1CB-4089-90A0-DAD47425814D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 275,
+    "width": 1440,
+    "x": 0,
+    "y": 838
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header+footer/footer/banking2btt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB00012E-5427-4FA3-B887-94C3FC9EE8CF",
+      "overrideName": "4944D9A5-6BA7-4D53-A4E7-B3C16F7DCD67/3801C109-631A-4051-80EF-63EFCAF5767C_stringValue",
+      "value": "Defer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42F09018-787C-40B5-93E4-671227D1FA87",
+      "overrideName": "CB999656-F60E-4F28-899F-AA4C4875F7B1/9AF0AF18-10C6-472B-AD6F-A59BD7FB5323_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "687A8564-860E-4E82-8D45-DD6A0348E698",
+  "verticalSpacing": 0
+}

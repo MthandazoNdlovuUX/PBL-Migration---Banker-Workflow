@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C442862D-17C6-4534-8E61-C4FC12F03D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25.5,
+    "width": 353.32,
+    "x": 83.68000000000026,
+    "y": 55
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/para/wht_l",
+  "nameIsFixed": false,
+  "originalObjectID": "91DB6D1B-834B-456B-9B13-75AAD2681E61",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9579E898-1898-4C3F-B6E2-5CC385914A9E_stringValue",
+      "value": "Xolelani Mlangeni - My Service Suite"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26E1EA44-1B52-4191-A5D7-E962B9DE5AE7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "64ACE993-43E9-4115-8595-CDC4AE6F93B4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "36E2DD0E-2136-4F53-87DA-342DC4ACE5CF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E03F102E-B5BA-4488-B9BF-147764094B41_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "179B30E3-83C5-479C-BC0D-BD110AEC8B82_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EAB244CC-A3D0-4C39-B124-7C2EA0689CA5",
+  "verticalSpacing": 0
+}

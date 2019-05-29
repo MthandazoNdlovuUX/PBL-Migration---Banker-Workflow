@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F677B22-F30D-4DE8-9013-FCC6D188E74D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 993,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FD9A448A-146B-4AB3-9BBB-77DE3AD3D945"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E4200F5-2811-4A59-B082-40ADD4D01EE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "9ED6F653-E6FF-42B0-A576-D226380D0B9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "62A61965-24CE-42C2-8041-A40F5A427BE4"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8AF3BB4-9A6B-4165-B12A-1C75FFD88FF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AD058CE-F3F3-41A8-98C1-75B2A816F267"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0B8377D-290C-4220-B080-CEFE8D594394"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E0A5EB3-C71A-49A9-872E-058E73673093"
+    },
+    {
+      "class": "shapePath",
+      "id": "48EE2E48-109E-4641-B09D-2F980FD1EC73"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFA5A165-E3B4-4DD7-AA90-3EB0CFAE2BB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E6C53DC-5CDA-4231-8317-7A76FF080816"
+    }
+  ],
+  "name": "Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.09793931159420292
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

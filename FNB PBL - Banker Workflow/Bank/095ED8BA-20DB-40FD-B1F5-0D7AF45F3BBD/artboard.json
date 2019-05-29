@@ -1,0 +1,219 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "96AF540A-549B-46C8-815F-64BC9AF8E0F7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "095ED8BA-20DB-40FD-B1F5-0D7AF45F3BBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E77F2EC-0936-4E92-A011-A5ED6129078A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE72ACC6-A61F-4827-9DD0-36C5F0790B50",
+    "height": 746,
+    "width": 1440,
+    "x": 4557,
+    "y": 3225
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "441B121A-8B38-4915-A154-E93CA7752E13",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1E4EE0EC-8AD5-4E86-8A19-6FA698653A37"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CC683227-9D17-4490-8B4E-D46EF733F2F8",
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440,
+      463,
+      731,
+      1002,
+      1273,
+      193
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9432F5B7-9DF8-47CC-ADDF-24C74647C480"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA057472-8E9C-4798-B883-3D3755508020"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F635345-143E-4A4F-BD5D-4666BB9A29D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FE6C549-DCF2-4D28-9EE6-532A4F45850D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B66EF4E5-1E33-4D35-9680-EF79D94EF1D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "7AACDCCC-4688-4660-A550-82443F9CE583"
+    },
+    {
+      "class": "group",
+      "id": "3A515E73-F4C8-4824-9D87-EBEC991CDAF3"
+    },
+    {
+      "class": "group",
+      "id": "821E359C-9352-4B63-B462-D2056CA3F356"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB59FC6E-9C02-4E9D-9370-5B4085D65E18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37EB7DDC-8622-4E71-A25E-5EC31E41567D"
+    },
+    {
+      "class": "group",
+      "id": "C23C748F-1494-4C6C-AF64-BAD98CDE2A21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1369994-C0FF-4263-B178-A99A08BE545B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CD99D5A-C8B9-4D0C-999E-57F6920EDD9D"
+    },
+    {
+      "class": "text",
+      "id": "CA906409-A342-4066-9719-04F3DB54BE54"
+    }
+  ],
+  "name": "Banker/Debt Counselling Declaration - Yes",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95016460-8433-4D07-81B8-7BFA10F34C31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "17BC0B05-E397-4870-ACF2-EE807DEBCD69",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

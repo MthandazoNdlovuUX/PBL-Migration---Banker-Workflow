@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "87834C57-F16D-4132-8837-5D79BADC5B14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB0992A0-559B-4CB0-8FB3-75D3AE64D595",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E6C04CB-759F-4A7F-8DE5-D80CE4C8B77C",
+    "height": 25,
+    "width": 166,
+    "x": 566,
+    "y": 133
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables/coza/header/group Copy 28",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D94B90D-0C6B-4A97-9FF0-9AFB7749D852_stringValue",
+      "value": "Capitalization Initiation Fee"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE3987FB-4FC1-4200-9543-54D92D67BD0D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0004D730-4FE9-49D4-B776-E6DE0C8DC3F7",
+  "verticalSpacing": 0
+}

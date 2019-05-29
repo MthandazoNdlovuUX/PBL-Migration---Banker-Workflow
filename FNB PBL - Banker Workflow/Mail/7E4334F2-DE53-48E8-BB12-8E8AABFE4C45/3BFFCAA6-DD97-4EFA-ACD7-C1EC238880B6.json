@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BFFCAA6-DD97-4EFA-ACD7-C1EC238880B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C0F40D8-476A-4F91-86F7-6820DF49E244",
+    "height": 102,
+    "width": 360,
+    "x": 180,
+    "y": 516
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "lists/icon/single/3L Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A36D5FA9-87D1-44DC-8FA9-BD2548674A06_stringValue",
+      "value": "Ozoemena Somayina"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "43F0DC9C-C813-4602-85EE-10EA75A5AC83_stringValue",
+      "value": "12/03/2019"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E1863EA-59B2-4B93-90B0-8FA18978CBDE_stringValue",
+      "value": "Final Grant amendment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2371822-F548-4318-B1F3-BBD5A3FC2E73",
+      "overrideName": "EA17C321-5A1D-4372-ADC7-0ABBBCBD8C19_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0CE0DE2-EF9A-4618-8171-EE373A583663",
+      "overrideName": "5811BE0A-6CE6-4BD1-85BC-FDE4DEE067CD_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "827A0F3B-F1FA-41A0-A253-CB7D8CB90AE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74386FDF-C5F4-4F55-83D8-05CAAAC19843",
+  "verticalSpacing": 0
+}

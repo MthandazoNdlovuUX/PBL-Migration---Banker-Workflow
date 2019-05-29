@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E5DCC08-83AF-4C58-81FA-0D6314155B58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1947B53C-589F-4017-899C-138320677F73",
+    "height": 43,
+    "width": 780,
+    "x": 449,
+    "y": 231
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/para/blk_l",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3827A1B9-81CB-409B-ADE1-368D905139D9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6897C04B-7992-4665-910E-AA9798D8CD45_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5551235E-7274-4BA0-8E4F-9A9D4375280E_stringValue",
+      "value": "Your payment was successfully submitted for approval."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E03F102E-B5BA-4488-B9BF-147764094B41_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DE841F8-B541-41FC-9F66-2F0DA1ADC65C",
+      "overrideName": "547019C4-534D-4623-B9A4-33E7348DC085_stringValue",
+      "value": "Are you sure you want to logout of Pyramid?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D031005-DC3D-4682-8DC9-BC97F2CA43A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BDBEE55-7C4E-428C-8024-6770F0E99403",
+  "verticalSpacing": 0
+}

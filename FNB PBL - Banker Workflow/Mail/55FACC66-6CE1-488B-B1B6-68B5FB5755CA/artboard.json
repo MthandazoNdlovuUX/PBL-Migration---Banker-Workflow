@@ -1,0 +1,269 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B8F57F90-9B94-4554-8EE0-F9C016BED2AC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "55FACC66-6CE1-488B-B1B6-68B5FB5755CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AD9B34F-A801-4CAB-9179-38637CAC0E6E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68982B2A-3C9B-4020-928A-46CA9418AF4E",
+    "height": 750,
+    "width": 1440,
+    "x": 2545,
+    "y": -626
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "76F0B673-6A65-44DA-ACB6-D0CA52EF8D79",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "65AB9013-F3C2-428B-8F49-07662E64B765"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0ED13F98-9A0C-45DB-8FB8-62CFF0C118B5",
+    "guides": [
+      90,
+      25,
+      115,
+      180,
+      205,
+      270,
+      295,
+      360,
+      385,
+      450,
+      540,
+      565,
+      630,
+      655,
+      720,
+      745,
+      835,
+      900,
+      925,
+      990,
+      1015,
+      1080,
+      1105,
+      1195,
+      1260,
+      475,
+      810,
+      1170,
+      1285,
+      1350,
+      1375,
+      1440
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3E661A8A-D649-49CA-9BE3-E013829AB5B4"
+    },
+    {
+      "class": "group",
+      "id": "08DB5889-2606-44FC-BDDB-BCB8A8B8BF85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE67FB7A-D2DE-44CF-AB8C-099915DF54DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E1B211E-2B1E-43BB-AD37-864DFCC820A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2E26994-2954-4CAE-9047-05FB8F273A4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CF6EFB4-B691-4976-B3AA-4A76E891F657"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B8C3235-1581-4A31-BFB9-436E6C6C1223"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95ED556C-85EC-487E-8041-B3EBF3DE181F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AEE6D60-2FB2-49EF-99C6-4BA478D6A9EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45E8C621-28F5-4284-9183-4399D7F53434"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E915F7E-57F6-406D-BF71-95D2D043649A"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC1D94BC-9C45-43EC-9E5F-935FCDE73097"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4985A9B-D854-4032-A8E0-893EE1B65869"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87E6993C-B94D-48F6-AA7B-BD687C6C30EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0236A39-F35D-4903-98F2-913E2B0FF751"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A21391FB-A46B-44E2-9D14-B4AFB0EC15A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B34427FA-B166-4DF0-B5A1-54BC75162D7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66E037AA-EA89-484E-B4F2-D3BB1EAEE5A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4BD3A50-BB94-4A46-A3BB-70FE7F134E6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C1CF0B3-1E32-4A08-B61B-F011938629F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A941EE0-1A49-4E99-88FF-F21B0475AF79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43810FA4-B34B-46B7-AB3E-B89B7767EA98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5EEB0A8-3D61-42B6-8992-ACD25FCA02E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64FCB7C1-51D7-4DE0-9BA8-803595F36DBA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "1F4B3981-E4CB-47EC-A790-5006D85E9AEF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Mailbox/Reply typing",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "597E1811-FE87-4A12-8075-D37F1C21CCC2",
+    "guides": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      175,
+      200,
+      225,
+      250,
+      275,
+      300,
+      325,
+      350,
+      375,
+      400,
+      425,
+      450,
+      475,
+      500,
+      525,
+      550,
+      575,
+      600,
+      625,
+      625,
+      650,
+      675,
+      700,
+      725
+    ]
+  }
+}

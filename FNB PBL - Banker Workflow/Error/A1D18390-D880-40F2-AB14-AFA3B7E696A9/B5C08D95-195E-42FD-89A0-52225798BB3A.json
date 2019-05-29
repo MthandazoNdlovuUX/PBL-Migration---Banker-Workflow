@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5C08D95-195E-42FD-89A0-52225798BB3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D56002C0-0076-41C0-9B5C-B6C6D0D72CE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4803CE7E-8011-4F8A-BA0C-AC026977F52C",
+    "height": 51,
+    "width": 147,
+    "x": 1111,
+    "y": 261
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Btt 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9AF0AF18-10C6-472B-AD6F-A59BD7FB5323_stringValue",
+      "value": "Get help"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DADF2CAB-6EE5-44A0-BA2D-2A92FD424377",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8FCCBCF-B41A-4E2B-907B-8CB45394FC9B",
+  "verticalSpacing": 0
+}

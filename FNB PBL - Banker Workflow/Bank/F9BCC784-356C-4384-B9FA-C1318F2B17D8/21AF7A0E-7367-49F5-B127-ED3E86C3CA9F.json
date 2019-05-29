@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "21AF7A0E-7367-49F5-B127-ED3E86C3CA9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E648308D-415E-4693-94D7-E4FFD601484A",
+    "height": 30,
+    "width": 375,
+    "x": 180,
+    "y": 769
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/h4/turq_l copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "D2FA8949-9993-49A2-A724-049C0C469206",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "73428BB5-BE83-411B-A4AB-397C65609A57_stringValue",
+      "value": "Rand per foreign currency unit"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "836781E5-3329-427D-B58F-82AE3013444E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85F3F3BA-C3BC-4B4C-974B-0FD96C37C5F5",
+      "overrideName": "4A0FBBBB-9CAC-461F-91D7-E6AEFC9D2921_stringValue",
+      "value": "Account Profile"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AECD5C79-302D-43AA-9A41-AD7C5A74ABBF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33738233-0255-45D0-B44E-06FECE261A39",
+  "verticalSpacing": 0
+}

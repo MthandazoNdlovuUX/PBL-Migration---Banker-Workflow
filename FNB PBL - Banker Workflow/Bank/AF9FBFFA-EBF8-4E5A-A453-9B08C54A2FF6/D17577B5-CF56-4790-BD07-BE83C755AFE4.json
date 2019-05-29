@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D17577B5-CF56-4790-BD07-BE83C755AFE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EECC041C-F5D5-4476-BFDA-AB82598334E7",
+    "height": 43,
+    "width": 295,
+    "x": 181,
+    "y": 281
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/sub/grey_l",
+  "nameIsFixed": false,
+  "originalObjectID": "DFF0698A-B3C3-4F2B-A6AF-A0919457994E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EC120771-BCEB-4A91-8622-BC47AD9728B3_stringValue",
+      "value": "Applicant Name: Nembo Lukeni"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71924DD9-3407-4B91-A7D6-F271D271C9A8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10953E7D-95E2-4E3E-A4B8-1FEBD5821D2F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "507F77D6-FE68-40F6-90BC-F392F345BA2C",
+  "verticalSpacing": 0
+}

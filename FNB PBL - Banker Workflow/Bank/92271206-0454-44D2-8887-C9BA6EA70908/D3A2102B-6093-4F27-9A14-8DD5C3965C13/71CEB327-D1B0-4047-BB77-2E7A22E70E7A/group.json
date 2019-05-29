@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71CEB327-D1B0-4047-BB77-2E7A22E70E7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4BF1886-3BC9-4346-8E63-1FFD390BB838",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85DB7C3F-4975-4853-9A01-FB4F2D270E07",
+    "height": 20,
+    "width": 150,
+    "x": 475,
+    "y": 14
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "24FC2B63-2E37-46A8-B6C4-1D15F4FCB7C0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B19FCA70-0812-4C1D-BA2C-228FB931AD19"
+    }
+  ],
+  "name": "BankingTables/Text/header/1line_L Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98C5F8C4-0626-4E04-B7F3-BAF6B0A321BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
